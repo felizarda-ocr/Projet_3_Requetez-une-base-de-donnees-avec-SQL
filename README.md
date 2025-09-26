@@ -1,27 +1,25 @@
 **Résumé du projet :**
 ---
-Conception et exploitation d'une base de données relationnelle pour analyser la satisfaction client dans le secteur de la grande distribution.
-Le projet, entièrement conforme au RGPD, a couvert l'ensemble du processus de gestion des données, de la modélisation à l'extraction d'insights métiers via des requêtes SQL ciblées.
-
+Conception et interrogation d'une base de données relationnelle pour analyser le marché de l'assurance habitation et identifier des profils clients. 
+Le projet a couvert l'ensemble du cycle de gestion des données, de la modélisation à l'extraction d'insights stratégiques via des requêtes SQL complexes.
 
 
 **Tâches réalisées :**
 ---
-**Analyse des besoins :** Recueil et formalisation des besoins métiers pour définir les indicateurs clés de satisfaction client à analyser.
+**Modélisation des données :** Création d'un dictionnaire de données et conception du schéma relationnel avec Power Architect.
 
-**Modélisation et implémentation :** Conception du schéma relationnel avec Power Architect, puis création et peuplement de la base dans MySQL workbench.
+**Implémentation technique :** Mise en place de la base de données dans MySQL Workbench et chargement des données.
 
-**Exploitation des données :** Rédaction de requêtes SQL complexes pour extraire, agréger et analyser les données (taux de satisfaction, réclamations, etc.).
+**Analyse stratégique :** Rédaction de requêtes SQL avancées pour extraire et agréger les données métier.
 
-**Documentation et conformité :** Mise à jour du dictionnaire de données et du modèle, en veillant à la traçabilité et au respect du RGPD.
-
+**Restitution opérationnelle :** Synthèse visuelle des résultats et formulation de recommandations adaptées aux enjeux métier.
 
 
 Compétences et outils mobilisés :
 ---
-**Base de données & SQL :** MySQLworkbench, SQLite, écriture de requêtes complexes (jointures, agrégations).
+**Bases de données :** SQL (requêtes avancées, jointures, agrégats),MySQL
 
-**Modélisation :** Conception de schéma relationnel avec Power Architect.
+**Modélisation :** Conception relationnelle (Merise), Power Architect
 
-**Gouvernance des données :** Sensibilité RGPD, documentation technique (dictionnaire de données).
+**Analyse et communication :** Data storytelling, Excel, PowerPoint
 
